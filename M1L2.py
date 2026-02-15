@@ -24,4 +24,4 @@ for i in range(uzunluk):
     karakter = random.choice(karakterler)
     sifre.append(karakter)
 print(sifre)
-print("şifreniz bu")
+print("şifreniz bu") 
